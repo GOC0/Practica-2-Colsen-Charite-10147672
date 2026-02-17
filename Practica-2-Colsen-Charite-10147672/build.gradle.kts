@@ -8,7 +8,7 @@ group = "trabajo-clase"
 version = "1.0-SNAPSHOT"
 
 application{
-        mainClass= "Practica-2-Colsen-Charite-10147672.src.Main"
+        mainClass= "Main"
 }
 
 repositories {
